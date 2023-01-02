@@ -9,7 +9,7 @@ sweety = cutie;
 cutie = temp;
 console.log("--------After swap--------");
 console.log(sweety, cutie);
-var line  = "==========================";
+var line = "==========================";
 console.log(line);
 var name = "*Assignment Swap Three values*";
 console.log(name);
