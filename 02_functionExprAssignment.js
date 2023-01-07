@@ -33,13 +33,16 @@ console.log("Given string is:", character);
 console.log("Total number of character in the string is: ", character.length);
 console.log("Character at index 6 is: ", character.charAt(6));
 console.log("Character at index 11 is: ", character.charAt(11));
+
 var lengthTotal = character.length;
 console.log(
   "The last Character in the string is: ",
   character.charAt(lengthTotal - 1)
 );
+
 var lengthTotal = character.length;
 console.log("The first character in the string is: ", character.charAt(0));
+
 var square = character.length * character.length;
 console.log("Square of length is:", square);
 console.log("--------------------********--------------------");
