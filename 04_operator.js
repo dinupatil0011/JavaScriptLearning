@@ -1,7 +1,7 @@
 var num1 = 10;
 var num2 = 5;
 
-console.log(`============ Arithmetic Operators =================`);
+console.log(`============ Arithmetic Operators =================`); // Arithmetic Operators are used to perform arithmetic on numbers
 var addResult = num1 + num2;
 console.log(`Addition is ${addResult} `);
 
@@ -28,7 +28,7 @@ var num4 = 5;
 var res = --num4; //num4 -1;
 console.log(`Decrement operator result is ${res}`);
 
-console.log(`============ Assignment Operators =================`);
+console.log(`============ Assignment Operators =================`); // Assignment operators assign values to JavaScript variables.
 var modulusResult = num1 % 3;
 console.log(`Modulus is ${modulusResult}`);
 
@@ -42,7 +42,7 @@ var num1 = 10;
 var num2 = 5;
 console.log(`Compound Subtraction ${(num1 -= num2)}`); // num1 = 15 - 5
 
-console.log(`============ Comparison Operators =================`);
+console.log(`============ Comparison Operators =================`); // Comparison operators are used in logical statements to determine equality or difference between variables or values.
 var num1 = 10;
 var num2 = 5;
 var num3 = 10;
