@@ -2,9 +2,7 @@
 
 var stringHandsOn = function () {
   var string = "    Hey you are doing good, keep it up    ";
-  console.log(
-    'The given string is: "    Hey you are doing good, keep it up    "'
-  );
+  console.log(`The given string is: ${string}`);
   console.log(`Length of the string is : ${string.length}`);
   var stringtrim = string.trim();
   console.log(`Leading and Trailling Spaces remove : ${stringtrim}`);
